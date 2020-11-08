@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science Portfolio on José Gouveia</title>
-    <link>https://jlbgouveia.github.io/jose_portfolio/</link>
-    <description>Recent content in Data Science Portfolio on José Gouveia</description>
+    <title>python on José Gouveia</title>
+    <link>https://jlbgouveia.github.io/jose_portfolio/tags/python/</link>
+    <description>Recent content in python on José Gouveia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Oct 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event Study Framework</title>
       <link>https://jlbgouveia.github.io/jose_portfolio/post/project-2_eventstudy/</link>
@@ -34,24 +34,6 @@ iytciytcouc
       <pubDate>Sat, 14 Mar 2020 11:15:58 -0400</pubDate>
       
       <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-5_suriname/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Employee Attrition</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrtion/</link>
-      <pubDate>Sat, 25 May 2019 11:13:32 -0400</pubDate>
-      
-      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrtion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Merger Momentum</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-6_mergermomentum/</link>
-      <pubDate>Mon, 20 May 2019 11:25:05 -0400</pubDate>
-      
-      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-6_mergermomentum/</guid>
       <description></description>
     </item>
     
