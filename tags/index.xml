@@ -26,11 +26,29 @@
     </item>
     
     <item>
-      <title>regression</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/tags/regression/</link>
+      <title>linear regression</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/linear-regression/</link>
       <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/regression/</guid>
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>panel regression</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/panel-regression/</link>
+      <pubDate>Thu, 28 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/panel-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arima model</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/arima-model/</link>
+      <pubDate>Sat, 14 Mar 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/arima-model/</guid>
       <description></description>
     </item>
     

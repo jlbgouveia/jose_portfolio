@@ -37,7 +37,7 @@
 <meta itemprop="description" content="A Guide on How to Compute Cumulative Abnormal Returns">
 <meta itemprop="datePublished" content="2020-10-10T11:00:59-04:00" />
 <meta itemprop="dateModified" content="2020-10-10T11:00:59-04:00" />
-<meta itemprop="wordCount" content="0">
+<meta itemprop="wordCount" content="264">
 
 
 
@@ -203,7 +203,22 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h5 id="motivation">Motivation:</h5>
+<p>Oftentimes, certain extremely unexpected events can&rsquo;t but shake a market as it is: Brexit, the Panama papers release, Donald Trump&rsquo;s election in 2016, to name a few&hellip; How can we study the impact of such events on the valuation of firms directly involved in these situations?</p>
+<p>In this notebook, I aim to present a guide on how to perform an event study, using <strong>Python</strong>. More specifically, I provide a framework on how to compute Capital Asset Pricing Model (CAPM) adjusted returns, which is a measure widely used academically to perform such studies.</p>
+<hr>
+<h5 id="methodology">Methodology:</h5>
+<p>The principle is quite simple: First, we need to predict the valuation of all the firms as if the event never occurred - through the CAPM. Then, we subtract these values from the actual ones after the event. These are called abnormal returns. (This is actually an oversimplified explanation, but let’s leave the arid details on the notebook itself).</p>
+<hr>
+<h5 id="application">Application:</h5>
+<p>Descriptive statistics on abnormal returns can already provide extremely interesting insights on the impact of one event. For example, these could show which firms/industries benefitted from Donald Trump’s election in 2016.</p>
+<p>However, many other studies can be performed once you have abnormal returns computed. By performing simple regression analyses, you can check, for instance, how firms involved in the Panama Papers were impacted relative to others (while also controlling for many other factors) – this is exactly what is done in the <a href="https://watermark.silverchair.com/hhz017.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAp8wggKbBgkqhkiG9w0BBwagggKMMIICiAIBADCCAoEGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM37PbXTfVLdaWbCV4AgEQgIICUrgNZr2s9NoB78zsc8-m5RRgI-KIfcZ2F0Flu_KyvqmF3FkUvSkzkx7fhWSV5pDjaG87bO1cUfcd1sYakIvCnRmZRMZaQWHSm4-BAncaQMpLuYojepIpjdRlcb8APNP7ekUCVgLKKFilcArJ6_R5lAAcZZQAnxyUJpRHEfuN3pTyDsrMcF7tT-sdwDvhZbjBz2tUL-1IUt_V_Uida77QeEmvRg9vcyONfGFeCdIFkbBoM69_4Jq8No_OEgoYy5kanV7zBvDKSgfofKdOODi1m_OStduoO7S1D-XCCQC1mXYCBcyFvyC8QGSPConmJK6pIv46MAUNZLmQbAYbvMgKw5XFOOVvgUdvvNS3Ji0kayoszKSwpeA5QLWdk1tpIJJg5fPlxIlBREglz3X3JjXdRGGQGq5j6BndnV2tCHeBd8xbAzWKgnYRUxY8Pwx-fk2H96zkjr8qubKAe5Zb4qpC32myJGPPxabhdT98KLW9SR-6_eFlaQTzIGA4YLeRD2bUfSVHxAVymEZ9x6rY2JFfRHnSQK-ksMXi_TkxjgZfoIpfAoHcgYqXziUhF3uMcOYTuhA2RVteFUOfRsq27tIObqYGCRz73vOS1sJOdOFMlxIgeQw9xtX3pUvlo105BUMTAwhgmnD9Wl2mA86Df1b9GDMgfSR9lvDQPJmKBZ8chySdNgei6xPzl2mILq0kT1debzL7_dgog_0oHsomCfW1nJTKo04z6bhirKptaYuFLSHuck9TgYnZDKe8ggY2QqBGA6ifTTKTcOkUgPzSjMavWYsnow">paper from O’Donovan, Wagner and Zeume</a>, if you may be interested.</p>
+<hr>
+<h4 id="links-for-the-code">Links for the code:</h4>
+<p>• <a href="https://nbviewer.jupyter.org/github/jlbgouveia/Event-Study/blob/master/Event%20Study.ipynb">Jupyter Notebook</a></p>
+<p>• Or check out the <a href="https://github.com/jlbgouveia/Event-Study">Github repository</a> for this project</p>
+<hr>
+<ul class="pa0">
   
    <li class="list">
      <a href="https://jlbgouveia.github.io/jose_portfolio/tags/python" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python</a>
