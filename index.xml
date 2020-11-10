@@ -44,25 +44,7 @@ My thesis focused on answering such questions. Looking into the stock market rea
       <pubDate>Sat, 25 May 2019 11:13:32 -0400</pubDate>
       
       <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrtion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Merger Momentum</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-6_mergermomentum/</link>
-      <pubDate>Mon, 20 May 2019 11:25:05 -0400</pubDate>
-      
-      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-6_mergermomentum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backtesting an Investment Strategy</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-4_backtesting/</link>
-      <pubDate>Wed, 12 Dec 2018 11:14:48 -0400</pubDate>
-      
-      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-4_backtesting/</guid>
-      <description></description>
+      <description>The problem: IFM Healthcare’s employee attrition rate was at 15%, almost twice the industry’s benchmark rate. Given high attrition levels could bring all sort of costs to the firm, an employee retention plan was put in place. For the solution design, we were given a budget of $1M to implement the salary raise policy, with the following insight: a 20% salary increase would reduce the probability of attrition to 0. The goal was to target the most productive employees that had also higher chances to leave the firm.</description>
     </item>
     
   </channel>

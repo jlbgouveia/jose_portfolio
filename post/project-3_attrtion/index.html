@@ -37,11 +37,11 @@
 <meta itemprop="description" content="Using Machine Learning Models to Predict Which Employees are Likely to Leave the Firm">
 <meta itemprop="datePublished" content="2019-05-25T11:13:32-04:00" />
 <meta itemprop="dateModified" content="2019-05-25T11:13:32-04:00" />
-<meta itemprop="wordCount" content="0">
+<meta itemprop="wordCount" content="234">
 
 
 
-<meta itemprop="keywords" content="R," />
+<meta itemprop="keywords" content="R,Classification Trees,Logistic Regression,KNN,Random Forest," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Predicting Employee Attrition"/>
 <meta name="twitter:description" content="Using Machine Learning Models to Predict Which Employees are Likely to Leave the Firm"/>
@@ -203,10 +203,42 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><h5 id="the-problem">The problem:</h5>
+<p>IFM Healthcare’s employee attrition rate was at 15%, almost twice the industry’s benchmark rate. Given high attrition levels could bring all sort of costs to the firm, an employee retention plan was put in place.
+For the solution design, we were given a budget of $1M to implement the salary raise policy, with the following insight: a 20% salary increase would reduce the probability of attrition to 0. The goal was to target the most productive employees that had also higher chances to leave the firm.</p>
+<hr>
+<h5 id="methodology">Methodology:</h5>
+<p>To construct the model, we were given historical information regarding 1000 employees from one of IFM’s main office in the US.
+The dataset was divided into a train and test sets (80% and 20%, respectively). The <strong>machine learning models</strong> used – <strong>Classification Trees; Logistic Regression; KNN; and Random Forest</strong> – were trained on a cross-validation method, splitting the data in 5 folds, optimizing for the Area Under the Curve. The best performing on the test set would then be chosen.</p>
+<hr>
+<h5 id="deployment">Deployment:</h5>
+<p>The logistic regression (with different levels of Lasso and Ridge regressions) was the best performing model, hence was used to predict the real probabilities of employee attrition. With such values, we were then able to maximize the profit function, that was derived both from employee attrition likelihood and employee productivity.</p>
+<hr>
+<h4 id="link-to-the-report">Link to the report:</h4>
+<p>• <a href="https://drive.google.com/file/d/1YKw4GYKa5cXHTS67Dq8b12kCZ-UJ4GCd/view?usp=sharing">Employee Attrition</a></p>
+<h4 id="link-to-the-code">Link to the code:</h4>
+<p>• <a href="https://github.com/jlbgouveia/BA_employee_attrition/blob/main/work.R">Github link</a></p>
+<hr>
+<ul class="pa0">
   
    <li class="list">
      <a href="https://jlbgouveia.github.io/jose_portfolio/tags/r" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">R</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://jlbgouveia.github.io/jose_portfolio/tags/classification-trees" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Classification Trees</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://jlbgouveia.github.io/jose_portfolio/tags/logistic-regression" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Logistic Regression</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://jlbgouveia.github.io/jose_portfolio/tags/knn" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">KNN</a>
+   </li>
+  
+   <li class="list">
+     <a href="https://jlbgouveia.github.io/jose_portfolio/tags/random-forest" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Random Forest</a>
    </li>
   
 </ul>
