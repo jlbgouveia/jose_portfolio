@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web scraping on José Gouveia</title>
+    <link>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</link>
+    <description>Recent content in web scraping on José Gouveia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Feb 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Scraping the Magic Formula Website</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-6_magicformula_webscrapping/</link>
+      <pubDate>Fri, 01 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-6_magicformula_webscrapping/</guid>
+      <description>Motivation: For a general use, if you want to keep track of information on a website that you have an account on, and periodically receive an email with an excel file with that same information, then this notebook should serve as the basis to do that job.
+The Process: In this project in particular, I use Python to automate the following actions:
+• Going to the Magic Formula Investing Website, and perform a login with my account</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -47,5 +47,16 @@ My thesis focused on answering such questions. Looking into the stock market rea
       <description>The problem: IFM Healthcare’s employee attrition rate was at 15%, almost twice the industry’s benchmark rate. Given high attrition levels could bring all sort of costs to the firm, an employee retention plan was put in place. For the solution design, we were given a budget of $1M to implement the salary raise policy, with the following insight: a 20% salary increase would reduce the probability of attrition to 0. The goal was to target the most productive employees that had also higher chances to leave the firm.</description>
     </item>
     
+    <item>
+      <title>Web Scraping the Magic Formula Website</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-6_magicformula_webscrapping/</link>
+      <pubDate>Fri, 01 Feb 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-6_magicformula_webscrapping/</guid>
+      <description>Motivation: For a general use, if you want to keep track of information on a website that you have an account on, and periodically receive an email with an excel file with that same information, then this notebook should serve as the basis to do that job.
+The Process: In this project in particular, I use Python to automate the following actions:
+• Going to the Magic Formula Investing Website, and perform a login with my account</description>
+    </item>
+    
   </channel>
 </rss>
