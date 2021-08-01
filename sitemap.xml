@@ -3,8 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/</loc>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/</loc>
-    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/ibm-watson-studio/</loc>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/post/project-7_prestigealgo/</loc>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/python/</loc>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/</loc>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</loc>
+    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -18,20 +60,6 @@
   
   <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/post/project-2_eventstudy/</loc>
-    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/python/</loc>
-    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/</loc>
     <lastmod>2020-10-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -110,13 +138,6 @@
   <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/tags/random-forest/</loc>
     <lastmod>2019-05-25T11:13:32-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</loc>
-    <lastmod>2019-02-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

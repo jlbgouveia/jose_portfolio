@@ -6,22 +6,49 @@
     <description>Recent content in Tags on José Gouveia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://jlbgouveia.github.io/jose_portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>event study</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/tags/event-study/</link>
-      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      <title>cloud computing</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/</link>
+      <pubDate>Sat, 31 Jul 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/event-study/</guid>
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBM Watson Studio</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/ibm-watson-studio/</link>
+      <pubDate>Sat, 31 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/ibm-watson-studio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
       <link>https://jlbgouveia.github.io/jose_portfolio/tags/python/</link>
-      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      <pubDate>Sat, 31 Jul 2021 10:58:08 -0400</pubDate>
       
       <guid>https://jlbgouveia.github.io/jose_portfolio/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web scraping</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</link>
+      <pubDate>Sat, 31 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event study</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/tags/event-study/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/event-study/</guid>
       <description></description>
     </item>
     
@@ -94,15 +121,6 @@
       <pubDate>Sat, 25 May 2019 11:13:32 -0400</pubDate>
       
       <guid>https://jlbgouveia.github.io/jose_portfolio/tags/random-forest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web scraping</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</link>
-      <pubDate>Fri, 01 Feb 2019 10:58:08 -0400</pubDate>
-      
-      <guid>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</guid>
       <description></description>
     </item>
     
