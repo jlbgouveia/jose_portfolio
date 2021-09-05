@@ -3,14 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/</loc>
-    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/adobe-illustrator/</loc>
+    <lastmod>2021-09-05T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/</loc>
+    <lastmod>2021-09-05T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/data-visualization/</loc>
+    <lastmod>2021-09-05T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/post/project-8_vaccinationscovid/</loc>
+    <lastmod>2021-09-05T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/tableau/</loc>
+    <lastmod>2021-09-05T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/</loc>
+    <lastmod>2021-09-05T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/cloud-computing/</loc>
     <lastmod>2021-07-31T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,13 +73,6 @@
   </url>
   
   <url>
-    <loc>https://jlbgouveia.github.io/jose_portfolio/tags/</loc>
-    <lastmod>2021-07-31T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/tags/web-scraping/</loc>
     <lastmod>2021-07-31T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -53,14 +81,7 @@
   
   <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/tags/event-study/</loc>
-    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://jlbgouveia.github.io/jose_portfolio/post/project-2_eventstudy/</loc>
-    <lastmod>2020-10-10T11:00:59-04:00</lastmod>
+    <lastmod>2020-05-28T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -138,6 +159,13 @@
   <url>
     <loc>https://jlbgouveia.github.io/jose_portfolio/tags/random-forest/</loc>
     <lastmod>2019-05-25T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jlbgouveia.github.io/jose_portfolio/post/project-2_eventstudy/</loc>
+    <lastmod>2019-03-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
