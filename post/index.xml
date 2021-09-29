@@ -14,7 +14,8 @@
       
       <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-8_vaccinationscovid/</guid>
       <description>As developed countries head for booster shots, a rising concern on the inequality of COVID-19 vaccines distributions is coming to surface. Is this concern, however, exaggerated?
-Percentage of People Fully Vaccinated   Source: Our World in Data Well… It’s not. As Portugal nears 75% of full vaccination rates on its population, there are still countries not reaching 1%. Perhaps unsurprisingly, African countries rate among the worse, as only 3% of the continent’s population is fully vaccinated against COVID-19.</description>
+  Well… It’s not. As Portugal nears 75% of full vaccination rates on its population, there are still countries not reaching 1%. Perhaps unsurprisingly, African countries rate among the worse, as only 3% of the continent’s population is fully vaccinated against COVID-19.
+Issues of morality The World Health Organization has already caught up on this issue, with its head Tedros Ghebreyesus stating that it&amp;rsquo;s unacceptable that countries which have used most of the global supply of vaccines keep using even more of it.</description>
     </item>
     
     <item>
@@ -49,11 +50,11 @@ My thesis focused on answering such questions. The stock market reactions to the
     </item>
     
     <item>
-      <title>Predicting Employee Attrition</title>
-      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrtion/</link>
+      <title>Machine Learning: Predicting Employee Attrition</title>
+      <link>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrition/</link>
       <pubDate>Sat, 25 May 2019 11:13:32 -0400</pubDate>
       
-      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrtion/</guid>
+      <guid>https://jlbgouveia.github.io/jose_portfolio/post/project-3_attrition/</guid>
       <description>The problem: IFM Healthcare’s employee attrition rate was at 15%, almost twice the industry’s benchmark rate. Given high attrition levels could bring all sort of costs to the firm, an employee retention plan was put in place. For the solution design, we were given a budget of $1M to implement the salary raise policy, with the following insight: a 20% salary increase would reduce the probability of attrition to 0. The goal was to target the most productive employees that had also higher chances to leave the firm.</description>
     </item>
     
